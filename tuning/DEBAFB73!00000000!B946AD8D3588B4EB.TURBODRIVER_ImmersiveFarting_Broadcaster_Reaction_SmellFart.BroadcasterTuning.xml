@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Broadcaster" i="broadcaster" m="broadcasters.broadcaster" n="TURBODRIVER:ImmersiveFarting_Broadcaster_Reaction_SmellFart" s="13350548967386559723">
+  <V n="allow_sim_test" t="enabled">
+    <L n="enabled">
+      <L>
+        <V t="mood">
+          <U n="mood">
+            <T n="disallow">True</T>
+            <T n="mood">201531<!--Mood_Possessed--></T>
+          </U>
+        </V>
+      </L>
+      <L>
+        <V t="mood">
+          <U n="mood">
+            <T n="disallow">True</T>
+            <T n="mood">27149<!--Mood_Asleep--></T>
+          </U>
+        </V>
+      </L>
+    </L>
+  </V>
+  <L n="constraints">
+    <V t="line_of_sight">
+      <U n="line_of_sight">
+        <V n="temporary_los" t="enabled" />
+      </U>
+    </V>
+    <V t="circle">
+      <U n="circle">
+        <T n="radius">2.5</T>
+      </U>
+    </V>
+  </L>
+  <L n="effects">
+    <V t="affordance">
+      <U n="affordance">
+        <T n="affordance_must_run_next">True</T>
+        <E n="affordance_priority">High</E>
+        <V n="affordance_target" t="enabled">
+          <E n="enabled">Object</E>
+        </V>
+        <L n="affordances">
+          <U>
+            <T n="affordance">16838249538621290888<!--TURBODRIVER:ImmersiveFarting_Reaction_SmellFart--></T>
+          </U>
+        </L>
+      </U>
+    </V>
+  </L>
+  <V n="frequency" t="on_enter" />
+  <T n="immediate">True</T>
+</I>

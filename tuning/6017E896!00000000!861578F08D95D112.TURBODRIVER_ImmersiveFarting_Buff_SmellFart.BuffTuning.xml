@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="TURBODRIVER:ImmersiveFarting_Buff_SmellFart" s="9661761550156157202">
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">10</T>
+    </U>
+  </V>
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0xA4B98EA0<!--DESCRIPTION--></T>
+  <T n="buff_name">0xAAF4A9A8<!--TITLE--></T>
+  <T p="InGame\UI\Icons\Buffs\buffs_foulodor_neg.png" n="icon">2f7d0004:00000000:64b2cac6222b76a3</T>
+  <T n="mood_type">14646<!--Mood_Uncomfortable--></T>
+  <T n="mood_weight">3</T>
+  <T n="visible">True</T>
+</I>

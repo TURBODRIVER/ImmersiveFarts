@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="TURBODRIVER:ImmersiveFarting_Loot_SmellFart" s="12071149523704948699">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xD8D0A39E<!--(From REASON)--></T>
+          </V>
+          <T n="buff_type">9661761550156157202<!--TURBODRIVER:ImmersiveFarting_Buff_SmellFart--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>
